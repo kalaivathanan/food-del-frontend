@@ -7,15 +7,16 @@ import PlaceOrder from './pages/PlaceOrder/PlaceOrder'
 
 const App = () => {
   return (
-    <div className='app'>
-      <Navbar />    
+    <div className="app">
+      <Navbar />
       <Routes>
-        <Route path='/' element={<Home/>} />
-        <Route path='/cart' element={<Cart/>} />
-        <Route path='/order' element={<PlaceOrder />} />
+        <Route path="/" element={<Home />} />
+        <Route path="/cart" element={<Cart />} />
+        <Route path="/order" element={<PlaceOrder />} />
       </Routes>
     </div>
-  )
+  );
 }
+
 
 export default App
