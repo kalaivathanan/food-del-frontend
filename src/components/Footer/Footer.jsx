@@ -4,15 +4,14 @@ import { assets } from "../../assets/assets";
 
 const Footer = () => {
   return (
-    <div className="footer">
+    <div id="footer" className="footer">
       <div className="footer-content">
         <div className="footer-content-left">
           <img src={assets.logo} alt="" />
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum officiis cum quo accusantium neque
-            officia aspernatur dolores sequi eaque omnis, dolorum eos quae ad repellat earum inventore iusto
-            quibusdam ut debitis vel temporibus quos aut sunt. Accusantium, dolor sunt suscipit vel sit laborum
-            delectus nesciunt.
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ducimus expedita provident temporibus autem
+            unde aut officiis praesentium quod quis, iusto quibusdam deserunt porro incidunt repudiandae quas ea
+            doloribus modi ratione.
           </p>
           <div className="footer-social-icons">
             <img src={assets.facebook_icon} alt="" />
