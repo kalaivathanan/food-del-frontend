@@ -42,6 +42,11 @@ To run this application locally, follow these steps:
 
 Contributions are welcome! If you find any bugs or have suggestions for improvement, please open an issue or submit a pull request.
 
+## Author
+
+This project was created by [kalaivathanan](https://github.com/kalaivathanan).
+
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
