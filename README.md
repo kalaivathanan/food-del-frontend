@@ -49,4 +49,3 @@ This project was created by [kalaivathanan](https://github.com/kalaivathanan).
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
