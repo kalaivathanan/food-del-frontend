@@ -4,7 +4,6 @@ This is a food delivery application built using React.js. It allows users to bro
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-
 ## Screenshots
 
 Here are some screenshots of the application:
